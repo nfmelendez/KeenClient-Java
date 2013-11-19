@@ -8,7 +8,7 @@ package io.keen.client.java;
  */
 class KeenConstants {
 
-    static final String SERVER_ADDRESS = "https://api.keen.io";
+    static final String SERVER_ADDRESS = "http://api.keen.io";
     static final String API_VERSION = "3.0";
 
     // Keen API constants
